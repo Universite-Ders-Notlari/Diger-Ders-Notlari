@@ -1,0 +1,15 @@
+﻿Build started 22.12.2015 10:07:57.
+     1>Project "C:\Users\Omer_Cakir\Desktop\Visual C++ Ray Tracing\Ray Tracer Triangle VC_5\Ray Tracer\Ray Tracer.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D "WIN32" /D NDEBUG /D "_UNICODE" /D "UNICODE" /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fd"vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Omer_Cakir\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\Ray Tracer.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:"obj\Win32\Release\RayTracer.Ray Tracer.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Release\Ray Tracer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH "Ray Tracer.obj"
+         ".NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Ray Tracer.vcxproj -> C:\Users\Omer_Cakir\Desktop\Visual C++ Ray Tracing\Ray Tracer Triangle VC_5\Ray Tracer\Release\Ray Tracer.exe
+     1>Done Building Project "C:\Users\Omer_Cakir\Desktop\Visual C++ Ray Tracing\Ray Tracer Triangle VC_5\Ray Tracer\Ray Tracer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.96
