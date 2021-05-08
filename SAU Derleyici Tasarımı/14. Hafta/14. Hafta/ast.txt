@@ -1,0 +1,17 @@
+= t1 2
+[]= a 0 1
+[]= a 1 2
+[]= a 2 3
+* t1 6 t2
++ a[2] t2 t3
+- a[2] t1 t2
+/ t3 2 t2
+uminus t2 t2
+print t2
+goto t2 13
+= t3 99
+uminus 25 t2
+* t2 t3 t3
+uminus t1 t1
++ t1 t3 t4
+print t4
