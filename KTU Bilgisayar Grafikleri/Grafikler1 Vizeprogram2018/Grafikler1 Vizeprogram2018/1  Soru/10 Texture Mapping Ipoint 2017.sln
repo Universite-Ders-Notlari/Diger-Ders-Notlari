@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10 Texture Mapping iPoint", "10 Texture Mapping iPoint.vcxproj", "{DB2CA4B9-3E27-4379-B1FF-BA55059631D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2CA4B9-3E27-4379-B1FF-BA55059631D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB2CA4B9-3E27-4379-B1FF-BA55059631D1}.Debug|x86.Build.0 = Debug|Win32
+		{DB2CA4B9-3E27-4379-B1FF-BA55059631D1}.Release|x86.ActiveCfg = Release|Win32
+		{DB2CA4B9-3E27-4379-B1FF-BA55059631D1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7D4046-3302-4615-A235-8ECFEB379E8B}
+	EndGlobalSection
+EndGlobal
